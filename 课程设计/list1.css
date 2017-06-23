@@ -1,0 +1,119 @@
+*{padding:0px;margin:0px;}*
+body{
+    background-color: yellow;
+}
+.top1{border:2px solid none;
+background: url(http://ppt360.com/background/UploadFiles_6733/201012/2010122016054212.jpg); 
+height: 200px;margin: 2px;padding: 2px;
+background-color: #460046;}
+
+#nav{ font:"宋体"; font-size:14px; color:#FFFFFF;}
+  #nav a {
+     font-size: 14px;
+     font-weight: bold;
+     line-height:38px;
+     color:#FFFFFF;
+     display:block;
+     width:100px;
+     height:38px;
+     text-align:center;
+ }
+ #nav a:link {
+     text-decoration: none;
+ }
+ #nav a:visited {  text-decoration: none; }
+ #nav a:hover { text-decoration: none; background:url(http://p2.so.qhimgs1.com/bdr/_240_/t0126bbe14264167a1e.jpg)}
+ #nav a:active { text-decoration: none;  }
+ .nae{
+    position: absolute;
+    left: 25%;
+    top:120px;
+ }<!--导航-->
+ form { 
+margin: 0; 
+} 
+#search_box { 
+width: 201px; 
+height: 31px; 
+background: url(http://files.jb51.net/demoimg/200912/bg_search_box.gif); 
+} 
+#search_box #s { 
+float: left; 
+padding: 0; 
+margin: 6px 0 0 6px; 
+border: 0; 
+width: 159px; 
+background: none; 
+font-size: .8em; 
+} 
+#search_box #go { 
+float: right; 
+margin: 3px 4px 0 0; 
+}
+#search_box{
+    position: absolute;
+    left: 70%;
+    top: 20px;
+}
+ <!--搜索框-->
+ .nnn{
+    border:dashed black 2px;
+}
+.nnn img{margin-left:30%;}
+<!--中间第一部分-->
+
+.dong{
+    width: 100%;
+    height: 300px;
+}
+.dong .da{
+    margin-top: 100px;
+    width: 300px;
+    float: left;
+    margin-left: 450px;
+    background-image:url(http://p2.so.qhimgs1.com/bdr/_240_/t010caff3003fa7fa2e.jpg);
+  
+}
+.dong .db{
+    margin-top: 100px;
+    float: left;
+    margin-left: 50px;
+}
+<!--中间第二部分-->
+.shi{
+    width: 100%;
+    height: 300px;
+}
+.shi .sa{
+    margin-top: 100px;
+    width: 300px;
+    height: 285px;
+    float: left;
+    margin-left: 450px;
+    background-image:url(http://images.3158.cn/data/attachment/tougao/article/2014/06/17/91189e83402843be1c804b282976372a.jpg);
+    background-size:285px 285px;
+}
+.shi .sb{
+    margin-top: 100px;
+    float: left;
+    margin-left: 50px;
+}
+<!--中间第三部分-->
+.xi{
+    width: 100%;
+    height: 300px;
+}
+.xi .xa{
+    margin-top: 100px;
+    width: 300px;
+    height: 285px;
+    float: left;
+    margin-left: 450px;
+    background-image:url(http://p0.meituan.net/460.280/deal/__22410018__2238006.jpg);
+    background-size:285px 285px;
+}
+.xi .xb{
+    margin-top: 100px;
+    float: left;
+    margin-left: 50px;
+}
